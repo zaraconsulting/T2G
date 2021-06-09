@@ -71,16 +71,20 @@ Next, in your .env file add a new line:
 FLASK_ENV=development
 ```
 
-set the FLASK_ENV environmental variable, then come back into your terminal and continue:
-```
-$ flask run
-```
-
 <hr>
 
 To run the React frontend, come out of the current directory, then into the frontend directory:
 ```
 $ cd ../frontend
 $ npm install
+```
+
+In one terminal
+```
+$ npm run start-api
+```
+
+In another terminal
+```
 $ npm start
 ```
