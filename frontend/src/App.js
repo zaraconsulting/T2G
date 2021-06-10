@@ -24,19 +24,10 @@ export const App = () => {
     // getToken();
 
     function getCoaches() {
-      fetch("/coaches", {
-        method: 'GET',
-        cors: 'no-cors',
-        headers: {
-          'Authorization': 'Bearer lYXcnIEFyq1awbgmJ5FHHdrpyGo5gjEw',
-          'Access-Control-Allow-Origin': '*'
-        }
-      })
+      fetch("/coaches")
         .then((r) => r.json)
         .then((data) => {
-          console.log(data)
-          // console.log('It works')
-          // setCoaches(data);
+          console.log(data);
         });
     }
     getCoaches();

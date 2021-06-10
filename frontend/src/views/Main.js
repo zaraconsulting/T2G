@@ -2,6 +2,8 @@ import React from 'react'
 import { Route, Switch } from 'react-router'
 import { Footer } from '../components/Footer'
 import { Header } from '../components/Header'
+import { LoginModal } from '../components/LoginModal'
+import { RegisterModal } from '../components/RegisterModal'
 import { SideNav } from '../components/SideNav'
 import { Home } from './Home'
 import { Password } from './Password'
@@ -41,6 +43,14 @@ export const Main = () =>
                 {/* <!-- footer wrapper --> */}
 
             </div>
+
+            {/* Modal Register */}
+            <RegisterModal />
+            {/* Modal Register */}
+
+            {/* <!-- Modal Login --> */}
+            <LoginModal />
+            {/* <!-- Modal Login --> */}
         </React.Fragment>
     )
 }
