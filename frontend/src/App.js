@@ -34,6 +34,8 @@ export const App = () => {
   }, []);
 
   return (
-    <Main />
+    <React.Fragment>
+      <Main />
+    </React.Fragment>
   )
 }

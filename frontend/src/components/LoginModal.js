@@ -7,6 +7,13 @@ export const LoginModal = () => {
     const handleLogin = (e) => {
         e.preventDefault();
         signIn(e.target.email.value, e.target.password.value);
+
+        document.querySelector('#Modallogin').classList.remove('show');
+        document.querySelector('#Modallogin').setAttribute('style', 'display: none');
+        document.querySelector('#Modallogin').setAttribute('aria-hidden', 'true');
+        
+        const modalBackdrops = document.getElementsByClassName('modal-backdrop');
+        document.body.removeChild(modalBackdrops[0]);
     }
 
     return (
