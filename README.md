@@ -76,8 +76,10 @@ FLASK_ENV=development
 To run the React frontend, come out of the current directory, then into the frontend directory:
 ```
 $ cd ../frontend
+$ touch .env
 $ npm install
 ```
+For your configuration variables, log into the account associated with app and pull environmental variables from there in the .env file you created in the step above.
 
 In one terminal
 ```
