@@ -1,0 +1,198 @@
+{
+  "postings" : {
+    "FaGRbPbFgDZMY4S3IfJHtTUoyjG2" : {
+      "1lc9I6Whqv" : {
+        "desc" : "we are looking for a good player to join our squad!",
+        "school" : "Oklahoma State University",
+        "title" : "New QB Needed!",
+        "url" : "www.google.com"
+      },
+      "2AMm4pJ2yN" : {
+        "desc" : "2",
+        "school" : "Oklahoma State University",
+        "title" : "2",
+        "url" : "2"
+      },
+      "YSGFRzOgqu" : {
+        "desc" : "yet ",
+        "school" : "Oklahoma State University",
+        "title" : "test",
+        "url" : "test"
+      },
+      "YywpILjBrO" : {
+        "desc" : "hey there, need a new player!",
+        "school" : "Oklahoma State University",
+        "title" : "New player",
+        "url" : "www.google.com"
+      }
+    }
+  },
+  "sports" : {
+    "football" : {
+      "running-back" : {
+        "1RTtdTX6xwgfHiAWOyJcsKcE0vk2" : {
+          "cid" : "agErsyt1HdVs4Nnw9EOIaqpNH0q1",
+          "name" : "Johnny",
+          "team" : "Pittsburg Steelers",
+          "uid" : "1RTtdTX6xwgfHiAWOyJcsKcE0vk2"
+        },
+        "6q3XBSGMV7emXaXGqgnRGW6pDqX2" : {
+          "cid" : "agErsyt1HdVs4Nnw9EOIaqpNH0q1",
+          "name" : "KJ",
+          "team" : "Pittsburg Steelers",
+          "uid" : "6q3XBSGMV7emXaXGqgnRGW6pDqX2"
+        }
+      }
+    },
+    "mens-softball" : {
+      "second-baseman" : {
+        "xeWe0JmZwhblnCerB3cvqNkHioz1" : {
+          "cid" : "agErsyt1HdVs4Nnw9EOIaqpNH0q1",
+          "name" : "Louis",
+          "team" : "Pittsburg steelers ",
+          "uid" : "xeWe0JmZwhblnCerB3cvqNkHioz1"
+        }
+      }
+    }
+  },
+  "users" : {
+    "coaches" : {
+      "AjVd4Fv4XgUkR5HtmZB0OodTzw83" : {
+        "email" : "test3@test3.com",
+        "name" : "NAME HERE",
+        "role" : 2,
+        "team" : "TEAM HERE"
+      },
+      "agErsyt1HdVs4Nnw9EOIaqpNH0q1" : {
+        "available-videos" : {
+          "4ptdRdluHF" : {
+            "id" : "4ptdRdluHF",
+            "thumbnail-size" : "106201",
+            "thumbnail-url" : "https://firebasestorage.googleapis.com/v0/b/t2g-app.appspot.com/o/agErsyt1HdVs4Nnw9EOIaqpNH0q1%2Fvideos%2F4ptdRdluHF%2Fthumbnail-4ptdRdluHF.jpg?alt=media&token=aa6165d6-64b5-49f0-9cb7-e9740ac65481",
+            "video-size" : "221610",
+            "video-url" : "https://firebasestorage.googleapis.com/v0/b/t2g-app.appspot.com/o/agErsyt1HdVs4Nnw9EOIaqpNH0q1%2Fvideos%2F4ptdRdluHF%2Fvideo-4ptdRdluHF.mp4?alt=media&token=322cc243-d699-4a2d-ab92-1f3ea49a62bf"
+          },
+          "aBOJTTqmks" : {
+            "id" : "aBOJTTqmks",
+            "thumbnail-size" : "249220",
+            "thumbnail-url" : "https://firebasestorage.googleapis.com/v0/b/t2g-app.appspot.com/o/agErsyt1HdVs4Nnw9EOIaqpNH0q1%2Fvideos%2FaBOJTTqmks%2Fthumbnail-aBOJTTqmks.jpg?alt=media&token=e93b2a5f-1ba0-4d60-ad13-0c597569ce52",
+            "video-size" : "1052671",
+            "video-url" : "https://firebasestorage.googleapis.com/v0/b/t2g-app.appspot.com/o/agErsyt1HdVs4Nnw9EOIaqpNH0q1%2Fvideos%2FaBOJTTqmks%2Fvideo-aBOJTTqmks.mp4?alt=media&token=7c0cc7dd-d002-4ee2-81c3-a7311332156b"
+          },
+          "bW8OGFl0qc" : {
+            "id" : "bW8OGFl0qc",
+            "thumbnail-size" : "205543",
+            "thumbnail-url" : "https://firebasestorage.googleapis.com/v0/b/t2g-app.appspot.com/o/agErsyt1HdVs4Nnw9EOIaqpNH0q1%2Fvideos%2FbW8OGFl0qc%2Fthumbnail-bW8OGFl0qc.jpg?alt=media&token=c316df21-d199-4193-8789-32ef6f78860a",
+            "video-size" : 219315,
+            "video-url" : "https://firebasestorage.googleapis.com/v0/b/t2g-app.appspot.com/o/agErsyt1HdVs4Nnw9EOIaqpNH0q1%2Fvideos%2FbW8OGFl0qc%2Fvideo-bW8OGFl0qc.mp4?alt=media&token=1429dc40-38ce-464f-9c9d-3bdd4ce83bc4"
+          }
+        },
+        "email" : "test@test.com",
+        "files" : {
+          "96nBFyctcs" : {
+            "name" : "Final Test",
+            "url" : "https://firebasestorage.googleapis.com/v0/b/t2g-app.appspot.com/o/agErsyt1HdVs4Nnw9EOIaqpNH0q1%2Ffiles%2F96nBFyctcs.pdf?alt=media&token=3c73f980-6c05-4278-a3c4-05f320d0940c"
+          },
+          "rD5qlH1uii" : {
+            "name" : "Test-3",
+            "url" : "https://firebasestorage.googleapis.com/v0/b/t2g-app.appspot.com/o/agErsyt1HdVs4Nnw9EOIaqpNH0q1%2Ffiles%2FrD5qlH1uii.pdf?alt=media&token=bd8311e8-924b-4b3b-a1a7-5fb92270ff61"
+          },
+          "yLRRWEyibo" : {
+            "name" : "Test-2",
+            "url" : "https://firebasestorage.googleapis.com/v0/b/t2g-app.appspot.com/o/agErsyt1HdVs4Nnw9EOIaqpNH0q1%2Ffiles%2FyLRRWEyibo.pdf?alt=media&token=22bc57b2-93f0-45b9-8704-b5dd4515f651"
+          }
+        },
+        "name" : "Test Account",
+        "players" : {
+          "1RTtdTX6xwgfHiAWOyJcsKcE0vk2" : "Johnny",
+          "6q3XBSGMV7emXaXGqgnRGW6pDqX2" : "KJ"
+        },
+        "role" : 2,
+        "team" : "Pittsburg Steelers"
+      }
+    },
+    "players" : {
+      "1RTtdTX6xwgfHiAWOyJcsKcE0vk2" : {
+        "academics" : {
+          "act" : "27",
+          "gpa" : "3.98",
+          "sat" : "1200"
+        },
+        "available-videos" : {
+          "4ptdRdluHF" : {
+            "id" : "4ptdRdluHF",
+            "thumbnail-url" : "https://firebasestorage.googleapis.com/v0/b/t2g-app.appspot.com/o/agErsyt1HdVs4Nnw9EOIaqpNH0q1%2Fvideos%2F4ptdRdluHF%2Fthumbnail-4ptdRdluHF.jpg?alt=media&token=aa6165d6-64b5-49f0-9cb7-e9740ac65481",
+            "video-size" : 221610,
+            "video-url" : "https://firebasestorage.googleapis.com/v0/b/t2g-app.appspot.com/o/agErsyt1HdVs4Nnw9EOIaqpNH0q1%2Fvideos%2F4ptdRdluHF%2Fvideo-4ptdRdluHF.mp4?alt=media&token=322cc243-d699-4a2d-ab92-1f3ea49a62bf"
+          },
+          "aBOJTTqmks" : {
+            "id" : "aBOJTTqmks",
+            "thumbnail-url" : "https://firebasestorage.googleapis.com/v0/b/t2g-app.appspot.com/o/agErsyt1HdVs4Nnw9EOIaqpNH0q1%2Fvideos%2FaBOJTTqmks%2Fthumbnail-aBOJTTqmks.jpg?alt=media&token=e93b2a5f-1ba0-4d60-ad13-0c597569ce52",
+            "video-size" : 1052671,
+            "video-url" : "https://firebasestorage.googleapis.com/v0/b/t2g-app.appspot.com/o/agErsyt1HdVs4Nnw9EOIaqpNH0q1%2Fvideos%2FaBOJTTqmks%2Fvideo-aBOJTTqmks.mp4?alt=media&token=7c0cc7dd-d002-4ee2-81c3-a7311332156b"
+          }
+        },
+        "cid" : "agErsyt1HdVs4Nnw9EOIaqpNH0q1",
+        "email" : "test1@test1.com",
+        "first_login" : 0,
+        "name" : "Johnny",
+        "player_questions" : {
+          "q1" : "I am a cool guy, not going to lie..",
+          "q2" : "Make money, duh.",
+          "q3" : "Yeah.",
+          "q4" : "My looks.",
+          "q5" : "Fast."
+        },
+        "role" : 0,
+        "stats" : {
+          "FOLM7fMt3K" : {
+            "id" : "FOLM7fMt3K",
+            "name" : "Rushing Yards",
+            "stat" : "1431"
+          },
+          "dMXj4yIY83" : {
+            "id" : "dMXj4yIY83",
+            "name" : "Passes Caught",
+            "stat" : "43"
+          },
+          "uGh7kq4xvw" : {
+            "id" : "uGh7kq4xvw",
+            "name" : "Total Touchdowns",
+            "stat" : "147"
+          }
+        },
+        "stream_data" : {
+          "mux_playback_id" : "fWn9T01pcMUyTsHNS6JV01JAnKlLziZzxmfJeuSqEf5kM",
+          "mux_stream_key" : "158d594c-5e50-2111-eb27-a188525b5e04"
+        },
+        "team" : "Pittsburg Steelers"
+      },
+      "6q3XBSGMV7emXaXGqgnRGW6pDqX2" : {
+        "cid" : "agErsyt1HdVs4Nnw9EOIaqpNH0q1",
+        "email" : "kj@kj.com",
+        "first_login" : 0,
+        "name" : "KJ",
+        "role" : 0,
+        "team" : "Pittsburg Steelers"
+      }
+    },
+    "recruiters" : {
+      "FaGRbPbFgDZMY4S3IfJHtTUoyjG2" : {
+        "chats" : {
+          "PskAqidKPv" : {
+            "to_id" : "agErsyt1HdVs4Nnw9EOIaqpNH0q1",
+            "to_name" : "Test Account"
+          },
+          "n7p1FMNLgu" : {
+            "to_id" : "xeWe0JmZwhblnCerB3cvqNkHioz1",
+            "to_name" : "Louis"
+          }
+        },
+        "email" : "test2@test2.com",
+        "name" : "Dirty Dan",
+        "role" : 3,
+        "team" : "Oklahoma State University"
+      }
+    }
+  }
+}
